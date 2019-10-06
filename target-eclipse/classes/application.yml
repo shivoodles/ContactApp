@@ -1,0 +1,6 @@
+server :
+   port : 4444
+
+sendgrid:
+        username: 'naveen.mishra.gkp.100@gmail.com'
+        password: 'Kamalkhan'
