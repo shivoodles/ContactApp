@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Google Contact Import</title>
+<title>Import GMAIL Contact</title>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
   </script>
   <script src="https://apis.google.com/js/client:platform.js?onload=start" async defer>
